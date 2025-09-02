@@ -45,7 +45,7 @@ Perfect for showcasing as a **portfolio project**.
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the Repository
+1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/Library-Management-System_CPP.git
 cd Library-Management-System_CPP
