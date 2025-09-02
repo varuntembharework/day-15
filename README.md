@@ -43,35 +43,7 @@ Perfect for showcasing as a **portfolio project**.
 
 ---
 
-## 🚀 Getting Started
-
-1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/Library-Management-System_CPP.git
-cd Library-Management-System_CPP
-
-### 2️⃣ Compile the Project
-On Windows (MinGW):
-g++ -std=c++17 -o library.exe main.cpp menu.cpp utils.cpp book.cpp member.cpp borrow.cpp user.cpp
-library.exe
-
----
-
 ## 🔑 Default Login
 
 Username: admin
 Password: admin123
-
----
-
-## 📂 Project Structure
-
-Library-Management-System_CPP/
-│── book.h / book.cpp        # Book management
-│── member.h / member.cpp    # Member management
-│── borrow.h / borrow.cpp    # Borrow & return system
-│── user.h / user.cpp        # User authentication
-│── utils.h / utils.cpp      # Utility functions
-│── menu.h / menu.cpp        # Menu system
-│── constants.h              # Global constants
-│── main.cpp                 # Entry point
